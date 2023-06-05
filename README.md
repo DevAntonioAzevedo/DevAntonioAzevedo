@@ -12,7 +12,7 @@ Eu sou o Antônio Azevedo 👋
   <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div><br><hr>
 
-Sou formado em Gestão de Pessoas e atualmnente estou cursando Análise e Desenvolvimento de Sistemas.
+Sou formado em Gestão de Pessoas e atualmente estou cursando Análise e Desenvolvimento de Sistemas.
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevAntonioAzevedo&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 

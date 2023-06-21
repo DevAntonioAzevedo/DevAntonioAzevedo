@@ -2,7 +2,7 @@
 
 Prazer em te conhecer, eu sou o Antônio Azevedo 🙋‍♂️
 
-🖥️ Sou formado em Gestão de Pessoas e atualmente sou estudante de Análise e desenvolvimento de sistemas, estou trilhando o caminho  para esse incrível mundo de desenvolvimento de *softwares*.
+🖥️ Sou formado em Gestão de Pessoas e atualmente sou estudante de análise e desenvolvimento de sistemas, estou trilhando o caminho para esse incrível mundo de desenvolvimento de *softwares*. Atualmente estou estudando HTML e CSS, mas meu foco principal é desenvolver aplicativos *mobile*.
 
 🏠 Sou nordestino com muito orgulho, resido na cidade de **Recife/PE**, como *hobby* curto jogos de mundo aberto, ler livros, escutar músicas, passear com minha família, gosto muito de plantas e de animais também.
 

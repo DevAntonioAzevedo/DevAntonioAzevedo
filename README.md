@@ -2,11 +2,11 @@
 
 Prazer em te conhecer, eu sou o Antônio Azevedo 🙋‍♂️
 
-🖥️ Sou formado em Gestão de Pessoas e atualmente sou estudante de análise e desenvolvimento de sistemas, estou trilhando o caminho para esse incrível mundo de desenvolvimento de *softwares*. Atualmente estou estudando HTML e CSS, mas meu foco principal é desenvolver aplicativos *mobile*.
+🖥️ Sou formado em Gestão de Pessoas e atualmente sou estudante de análise e desenvolvimento de sistemas, estou trilhando o caminho para esse incrível mundo de desenvolvimento de *softwares*. Atualmente estou estudando raciocínio lógico e compartilhando aqui meus exercícios. Há algum tempo atrás estava estudando HTML e CSS onde disponibilizei aqui dois projetos simples, mas meu foco principal é desenvolver aplicativos *mobile*.
 
-🏠 Sou nordestino com muito orgulho, resido na cidade de **Recife/PE**, como *hobby* curto jogos de mundo aberto, ler livros, escutar músicas, passear com minha família, gosto muito de plantas e de animais também.
+🏠 Sou nordestino com muito orgulho, resido na cidade de **Recife/PE**, como *hobby* curto jogos de mundo aberto, ler livros, escutar músicas, passear com minha família, fazer atividades físicas, gosto muito de plantas e de animais também.
 
-✖️ Deixo aqui meu perfil do Linkedin:
+✖️ Deixo aqui meu perfil do Linkedin, estou desempregado e em busca de alguma oportunidade:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ant%C3%B4nio-azevedo-b72112114/)
 

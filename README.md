@@ -1,35 +1,22 @@
-# ✨ Olá, seja bem vindo(a) ao meu perfil  ✨
+<h1 align="center">✨ Olá, seja bem vindo(a) ao meu perfil ✨</h1>
 
-Prazer em te conhecer, eu sou o Antônio Azevedo 🙋‍♂️
+Prazer em te conhecer, eu sou o <strong>Antônio Azevedo</strong> 🙋‍♂️
 
-🖥️ Sou formado em Gestão de Pessoas e atualmente sou estudante de análise e desenvolvimento de sistemas, estou trilhando o caminho para esse incrível mundo de desenvolvimento de *softwares*. Atualmente estou estudando raciocínio lógico e compartilhando aqui meus exercícios. Há algum tempo atrás estava estudando HTML e CSS onde disponibilizei aqui dois projetos simples, mas meu foco principal é desenvolver aplicativos *mobile*.
+🖥️ Sou formado em Gestão de Pessoas e atualmente estudo de Análise e Desenvolvimento de Sistemas, estou trilhando o caminho para esse incrível mundo de desenvolvimento de *softwares*.
+Desde muito jovem sempre fui fascinado pelo poder da tecnologia e pelas maneiras de como ela pode mudar o 🌎
 
-🏠 Sou nordestino com muito orgulho, resido na cidade de **Recife/PE**, como *hobby* curto jogos de mundo aberto, ler livros, escutar músicas, passear com minha família, fazer atividades físicas, gosto muito de plantas e de animais também.
+🏠 Sou da cidade de <strong>Recife/PE</strong>, amo praticar atividades físicas, ler, escutar músicas e de jogar sempre que preciso relaxar um pouco.
 
-✖️ Deixo aqui meu perfil do Linkedin, estou desempregado e em busca de alguma oportunidade:
+🔽 Deixo aqui meu perfil do Linkedin, estou desempregado e em busca de novas oportunidade:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ant%C3%B4nio-azevedo-b72112114/)
 
-![Antonio GitHub stats](https://github-readme-stats.vercel.app/api?username=DevAntonioAzevedo&show_icons=true&theme=merko)
+![Antonio GitHub stats](https://github-readme-stats.vercel.app/api?username=DevAntonioAzevedo&show_icons=true&theme=radical)
 
-🛠️ Tecnologias que estou estudando no momento:
+🛠️ Tecnologias que estudo no momento:
 <div style="display: inline_block"><br>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img align="center" alt="android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </div><br><hr>
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevAntonioAzevedo&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-
-**DevAntonioAzevedo/DevAntonioAzevedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📧 Contato: antonio_azevedo@hotmail.com.br

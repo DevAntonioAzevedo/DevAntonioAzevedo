@@ -16,12 +16,12 @@ Desde muito jovem sempre fui fascinado pelo poder da tecnologia e pelas maneiras
 ## 
 ![Antonio GitHub stats](https://github-readme-stats.vercel.app/api?username=DevAntonioAzevedo&show_icons=true&theme=radical)
 
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🛠️ Tecnologias que estudo no momento:
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-## 
 
 ## 📧 Contato: antonio_azevedo@hotmail.com.br

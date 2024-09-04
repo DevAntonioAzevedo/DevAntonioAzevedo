@@ -29,8 +29,9 @@ Quando não estou codando, gosto de explorar temas de desenvolvimento pessoal, c
 
 <!-- Link Linkedin -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/antonio--azevedo/" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/antonio--azevedo/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </div>
 
 <!-- Skills -->

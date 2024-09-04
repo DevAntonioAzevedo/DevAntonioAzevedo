@@ -1,27 +1,53 @@
-<h1 align="center">✨ Olá, seja bem vindo(a) ao meu perfil ✨</h1>
+<!-- Imagem do topo -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=48a860&height=120&section=header"/>
 
-<img align="right" width="300" src="https://reviews.com.np/uploads/article/android-10-is-official/new-android-logo-2019-robot-head-reactions-animated-2.gif" />
+<!-- Animação de apresentação -->
 
+[![Typing_SVG](https://readme-typing-svg.herokuapp.com/?color=98fb98&size=34&center=true&vCenter=true&width=1000&&lines=Olá,+seja+bem+vindo+ao+meu+peril.;Sou+um+desenvolvedor+mobile+em+formação.)](https://git.io/typing-svg)
+
+<!-- Apresentação -->
 Prazer em te conhecer, eu sou o <strong>Antônio Azevedo</strong> 🙋‍♂️
 
-🖥️ Sou formado em Gestão de Pessoas e atualmente estudo de Análise e Desenvolvimento de Sistemas, estou trilhando o caminho para esse incrível mundo de desenvolvimento de *softwares*, meu foco principal é trabalhar na construção de aplicativos *Android Mobile*.
-Desde muito jovem sempre fui fascinado pelo poder da tecnologia e pelas maneiras de como ela pode mudar o 🌎 
+Sou um profissional apaixonado por tecnologia, atualmente cursando o último período de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento mobile. 
 
-🏠 Sou da cidade de <strong>Recife/PE</strong>, amo praticar atividades físicas, ler, escutar músicas e de jogar sempre que preciso relaxar um pouco.
+Minhas ferramentas de escolha incluem <b>Kotlin</b> e <b>Android Studio</b>, e estou constantemente buscando maneiras de aprimorar minhas habilidades, seja através de cursos, projetos pessoais, ou certificações.
+Estou sempre aberto a novas oportunidades de aprendizado e crescimento profissional.
 
-🔽 Deixo aqui meu perfil do Linkedin, estou sempre em busca de novas oportunidade:
+Quando não estou codando, gosto de explorar temas de desenvolvimento pessoal, como a ideia de ser 1% melhor a cada dia, e pratico meditação para manter o equilíbrio entre mente e corpo.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ant%C3%B4nio-azevedo-b72112114/)
-
+<!-- Grupo de estatísticas -->
 ## 
-![Antonio GitHub stats](https://github-readme-stats.vercel.app/api?username=DevAntonioAzevedo&show_icons=true&theme=radical)
+<div align="center">
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DevAntonioAzevedo&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=74c365&icon_color_98fb98&text_color=98fb98&bg_color_0d1117" all="Antônio Azevedo GitHub estatísticas" />
+  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAntonioAzevedo&theme=radical&layout_compact&hide_border=true&title_color=74c365&text_color=98fb98&bg_color_0d1117" />
+</div>
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Linhas de contribuições -->
+##
+[![Ashutosh's_github_activity_graph](https://github-readme-activity-graph.vercel.app/graph?username=DevAntonioAzevedo&bg_color=000000&color=74c365&line=07e9a58point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 🛠️ Tecnologias que estudo no momento:
+<!-- Pódios -->
+##
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DevAntonioAzevedo&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<!-- Link Linkedin -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/antonio--azevedo/" target="_balnk">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
 
-## 📧 Contato: antonio_azevedo@hotmail.com.br
+<!-- Skills -->
+## Liguagem Principal:
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=48a860)
+
+<!-- Tools -->
+## Ferramentas:
+![AndroidStudio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+<!-- Contact -->
+## Contato:
+📧 antonio_azevedo@hotmail.com.br

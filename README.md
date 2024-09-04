@@ -22,10 +22,6 @@ Quando não estou codando, gosto de explorar temas de desenvolvimento pessoal, c
   <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAntonioAzevedo&theme=radical&layout_compact&hide_border=true&title_color=74c365&text_color=98fb98&bg_color_0d1117" />
 </div>
 
-<!-- Linhas de contribuições -->
-##
-[![Ashutosh's_github_activity_graph](https://github-readme-activity-graph.vercel.app/graph?username=DevAntonioAzevedo&bg_color=000000&color=74c365&line=07e9a58point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <!-- Pódios -->
 ##
 <p align="center">

@@ -2,7 +2,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=48a860&height=120&section=header"/>
 
 <!-- Animação de apresentação -->
-[![Typing_SVG](https://readme-typing-svg.herokuapp.com/?color=98fb98&size=34&center=true&vCenter=true&width=1000&&lines=Olá,+seja+bem+vindo+ao+meu+peril.;Sou+um+desenvolvedor+mobile+em+formação.)](https://git.io/typing-svg)
+[![Typing_SVG](https://readme-typing-svg.herokuapp.com/?color=98fb98&size=34&center=true&vCenter=true&width=1000&&lines=Olá,+seja+bem+vindo+ao+meu+perfil.;Sou+um+desenvolvedor+mobile+em+formação.)](https://git.io/typing-svg)
 
 <!-- Apresentação -->
 Prazer em te conhecer, eu sou o <strong>Antônio Azevedo</strong> 🙋‍♂️

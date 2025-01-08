@@ -7,7 +7,7 @@
 <!-- Apresentação -->
 Prazer em te conhecer, eu sou o <strong>Antônio Azevedo</strong> 🙋‍♂️
 
-Sou um profissional apaixonado por tecnologia, atualmente cursando o último período de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento mobile. 
+Sou um profissional apaixonado por tecnologia, formado em Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento mobile. 
 
 Minhas ferramentas de escolha incluem <b>Kotlin</b> e <b>Android Studio</b>, e estou constantemente buscando maneiras de aprimorar minhas habilidades, seja através de cursos, projetos pessoais, ou certificações.
 Estou sempre aberto a novas oportunidades de aprendizado e crescimento profissional.
